@@ -1,0 +1,10 @@
+Desenvolva os dois códigos abaixo, conforme foram solicitados em na aula do dia 24/08/20.
+
+
+1) FAZER UM PROGRAMA PARA LER OS DADOS DE DUAS PESSOAS, DEPOIS MOSTRAR O NOME DA PESSOA MAIS VELHA.
+
+2) FAZER UM PROGRAMA PARA LER NOME E SALÁRIO DE DOIS FUNCIONÁRIOS, E QUE CALCULE A MÉDIA SALARIAL.
+
+É necessário que criar classes com as variáveis e métodos em cada um dos programas assim, além do programa principal. Maiores informações no conteúdo gravado da aula do dia 02/09/20 .
+
+Ambos devem ser adicionados em seu repositório no GitHub e compartilhado o link de acesso, exercício individual.
